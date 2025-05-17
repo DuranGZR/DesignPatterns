@@ -1,4 +1,7 @@
-package PACKAGE_NAME;
+public class PayPalPayment implements PaymentStrategy{
 
-public class PayPalPayment {
+    @Override
+    public void pay(int para){
+        System.out.println(para+ " TL paypal ile ödendi. ");
+    }
 }

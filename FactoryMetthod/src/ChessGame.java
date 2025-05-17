@@ -1,4 +1,9 @@
-package PACKAGE_NAME;
+public class ChessGame implements Game {
 
-public class ChessGame {
+    @Override
+    public void play() {
+        System.out.println("Chess Game oynanıyor");
+    }
+
+
 }

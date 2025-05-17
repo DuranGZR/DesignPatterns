@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
-
-public class GameFactory {
+public abstract class GameFactory {
+    public abstract Game createGame();
 }

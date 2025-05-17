@@ -1,4 +1,11 @@
-package PACKAGE_NAME;
+public class Triangle extends Shape{
 
-public class Triangle {
+    public Triangle(Color color){
+        super(color);
+    }
+
+    @Override
+    public void draw(){
+        System.out.println(color.applyColor()+" bir üçgen çizildi");
+    }
 }

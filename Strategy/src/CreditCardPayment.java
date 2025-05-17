@@ -1,4 +1,8 @@
-package PACKAGE_NAME;
+public class CreditCardPayment implements PaymentStrategy{
 
-public class CreditCardPayment {
+    @Override
+    public void pay(int para){
+        System.out.println(para+ "TL kredi kartı ile ödendi");
+    }
+
 }

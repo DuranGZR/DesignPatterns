@@ -1,4 +1,4 @@
-package PACKAGE_NAME;
+public interface PaymentStrategy {
 
-public class PaymentStrategy {
+    void pay(int para);
 }

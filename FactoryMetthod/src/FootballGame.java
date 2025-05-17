@@ -1,4 +1,6 @@
-package PACKAGE_NAME;
-
-public class FootballGame {
+public class FootballGame implements Game {
+        @Override
+        public void play() {
+            System.out.println("Futbol oyunu oynuyor");
+        }
 }

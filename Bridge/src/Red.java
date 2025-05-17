@@ -1,4 +1,7 @@
-package PACKAGE_NAME;
+public class Red implements Color {
 
-public class Red {
+    @Override
+    public String applyColor(){
+        return "Red";
+    }
 }

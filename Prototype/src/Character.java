@@ -1,4 +1,5 @@
-package PACKAGE_NAME;
+public interface Character extends Cloneable {
 
-public class Character {
+    Character clone();
+    void display();
 }

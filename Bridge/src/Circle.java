@@ -1,4 +1,11 @@
-package PACKAGE_NAME;
+public class Circle extends Shape{
 
-public class Circle {
+    public Circle(Color color){
+        super(color);
+    }
+
+    @Override
+    public void draw(){
+        System.out.println(color.applyColor()+ " bir daire çizildi");
+    }
 }

@@ -1,4 +1,7 @@
-package PACKAGE_NAME;
+public class FootballGameFactory extends GameFactory {
 
-public class FootballGameFactory {
+    @Override
+    public Game createGame() {
+        return new FootballGame();
+    }
 }
