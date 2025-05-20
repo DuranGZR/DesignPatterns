@@ -1,0 +1,16 @@
+
+Bir nesneye yeni özellikler eklemenin esnek yoludur.
+
+Ama bu özellikleri miras(extends) ile değil, katman katman sararak yaparız.
+
+
+Örnek;
+
+    Bir kahve sipariş ediyorsun.
+    İçine,
+    . süt ekleersin
+    . şeker eklersin
+    . çikolata eklrsin
+
+    her seferde yeni bir sınıf yazmak yerine, kahveyi dekoratörle sararız.
+

@@ -1,0 +1,5 @@
+
+Gerçek nesneye erişimi kontrol eden bir aracı(proxy) nesne yaratır.
+
+Bu nesne gerçek nesne ile aynı arayüzü kullanır ama önce kontrol, log, yetki gibi işlemleri yapar.
+

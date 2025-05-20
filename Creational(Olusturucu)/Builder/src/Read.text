@@ -1,0 +1,10 @@
+Aynı aşamaları kullanarak bir birinden FARKLI ÜRÜNLERİN ortaya çıkmasını sağlayan tasarım kalıbıdır.
+
+Karmaşık nesne oluşturulurken birbirinden farklı parçalar bir araya getirilir.
+
+Builder aşamalı bir biçimde nesnenin oluşturulmasını sağlar.
+
+
+Örnek;
+
+    Bir araç fabrikası aynı aşamaları kullanarak farklı modeller üretebilir.

@@ -1,0 +1,9 @@
+
+Uyumlu olmayan iki sınıf arasında köprü görevi görür.
+
+Bir sınıfın arayüzünü, başka bir arayüzle çalışacak şekilde uyarlar.
+
+
+Örnek;
+
+    Türk fişine Amerikan fişi takarken adaptör kullanılır.

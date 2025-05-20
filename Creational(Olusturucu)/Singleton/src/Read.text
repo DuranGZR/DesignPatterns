@@ -1,0 +1,12 @@
+
+Bir sınıftan sadece bir nesne oluşturulmasını sağlar.
+
+Ve o nesneye heryerden erişim sağlanır.
+
+
+Örnek;
+
+    Yazıcı düşün. Bilkgisayardaki tüm işlemler tek bir yazıcı nesnesin3e ulaşır.
+
+    Her istekte yeni bir yazıcı üretmezsin, hep aynı nesne kullanılır.
+

@@ -2,14 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Structural(Yapısal)/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Structural(Yapısal)/Adapter/Adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Structural(Yapısal)/Bridge/Bridge.iml" filepath="$PROJECT_DIR$/Structural(Yapısal)/Bridge/Bridge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational(Olusturucu)/Builder/Builder.iml" filepath="$PROJECT_DIR$/Creational(Olusturucu)/Builder/Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural(Yapısal)/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Structural(Yapısal)/Decorator/Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational(Olusturucu)/FactoryMetthod/FactoryMetthod.iml" filepath="$PROJECT_DIR$/Creational(Olusturucu)/FactoryMetthod/FactoryMetthod.iml" />
       <module fileurl="file://$PROJECT_DIR$/Structural(Yapısal)/Fecade/Fecade.iml" filepath="$PROJECT_DIR$/Structural(Yapısal)/Fecade/Fecade.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Observer/Observer.iml" filepath="$PROJECT_DIR$/Observer/Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral(Davranissal)/Observer/Observer.iml" filepath="$PROJECT_DIR$/Behavioral(Davranissal)/Observer/Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational(Olusturucu)/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Creational(Olusturucu)/Prototype/Prototype.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Strategy/Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural(Yapısal)/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Structural(Yapısal)/Proxy/Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational(Olusturucu)/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Creational(Olusturucu)/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral(Davranissal)/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Behavioral(Davranissal)/Strategy/Strategy.iml" />
     </modules>
   </component>
 </project>

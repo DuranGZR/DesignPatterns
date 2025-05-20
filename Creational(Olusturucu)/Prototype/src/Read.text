@@ -1,0 +1,4 @@
+Prototype var olan bir nesneyi kopyalayıp ihtiyaca göre değişiklikler yapmanızı sağlar.
+
+Bir nesnenin oluşturulması ile alakalı harcanan zaman ve yeni kaynak kullanımını ortadan kaldırır.
+

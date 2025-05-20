@@ -1,0 +1,10 @@
+Aynı arayüzü kullanan nesnelerin oluşturulmasını ve ihtiyaca göre uygun olan nesnelerin seçilmeisni ve yönetimini sağlar.
+
+Uygun bir sınıfın saçilmesi ve yönetimini sağlar.
+
+Nesne oluşturulması için bir interface tanımlanır, fakat hangi sınıfın örenğinin oluşturulacağına class içerisinde karar verilir.
+
+
+Örnek;
+
+    Bir bir bidon fabrikası farklı sezonlarda müşterilerinin isteklerine göre farklı boyutta bidon üretimi gerçekleştirebilir.
